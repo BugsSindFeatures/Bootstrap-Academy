@@ -5,11 +5,10 @@ This repository is primarily used to organize bug reports, feature requests and 
 ## Public Repositories
 | Name | Description | Language/Framework |
 |:-:|-|-|
+| [backend](https://github.com/Bootstrap-Academy/backend) | The official backend of Bootstrap Academy | Rust / Axum |
 | [frontend](https://github.com/Bootstrap-Academy/frontend) | The official frontend of Bootstrap Academy | Vue.js / Nuxt.js |
 | [admin-dashboard](https://github.com/Bootstrap-Academy/admin-dashboard) | The internal admin dashboard of Bootstrap Academy | Vue.js / Nuxt.js |
-| [auth-ms](https://github.com/Bootstrap-Academy/auth-ms) | The official auth microservice of Bootstrap Academy | Python / FastAPI |
 | [skills-ms](https://github.com/Bootstrap-Academy/skills-ms) | The official skills microservice of Bootstrap Academy | Python / FastAPI |
-| [shop-ms](https://github.com/Bootstrap-Academy/shop-ms) | The official shop microservice of Bootstrap Academy | Python / FastAPI |
 | [jobs-ms](https://github.com/Bootstrap-Academy/jobs-ms) | The official jobs microservice of Bootstrap Academy | Python / FastAPI |
 | [events-ms](https://github.com/Bootstrap-Academy/events-ms) | The official events microservice of Bootstrap Academy | Python / FastAPI |
 | [challenges-ms](https://github.com/Bootstrap-Academy/challenges-ms) | The official challenges microservice of Bootstrap Academy | Rust / Poem |
